@@ -1,4 +1,4 @@
-n=int(raw_input("Enter a number: "))
+n=int(raw_input())
 s= 0
 while(n > 0):
     s=s+n
